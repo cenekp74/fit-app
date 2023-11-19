@@ -1,0 +1,1 @@
+pysimplegui, matplotlib, numpy, symfit, sympy
